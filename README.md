@@ -1,1 +1,2 @@
-# bierkiezer-frontend
+# BierKiezer
+
